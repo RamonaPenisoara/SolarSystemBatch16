@@ -6,6 +6,16 @@ public class Main {
         Omnax.Planets="2";
         Omnax.Star="4";
 
+        FeatureSun AdamX=new FeatureSun();
+        AdamX.name="poya";
+        AdamX.temp="12344231 celsius";
+        AdamX.size="32942km";
+
+        Planet2 Feon= new Planet2();
+        Feon.name="exo";
+        Feon.color="white";
+        Feon.temp="25 celcius";
+        Feon.size="1234billion km";
 
     }
     }
